@@ -1,8 +1,17 @@
+* {
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: ivory;
+}
+/* 
 li a{
     color: rgb(226, 55, 203);
-}
+} */
 
 body {
-    background: white url("images/background.png") no-repeat;
+    background: white url("images/background.jpg") no-repeat;
     background-size: cover;
 }
